@@ -1,0 +1,8 @@
+C:\Users\jphof\OneDrive\Documents\Full Sail\DES1 202202\Projects\ArenaBattleRoyale\ArenaBattleRoyale\bin\Debug\ArenaBattleRoyale.exe.config
+C:\Users\jphof\OneDrive\Documents\Full Sail\DES1 202202\Projects\ArenaBattleRoyale\ArenaBattleRoyale\bin\Debug\ArenaBattleRoyale.exe
+C:\Users\jphof\OneDrive\Documents\Full Sail\DES1 202202\Projects\ArenaBattleRoyale\ArenaBattleRoyale\bin\Debug\ArenaBattleRoyale.pdb
+C:\Users\jphof\OneDrive\Documents\Full Sail\DES1 202202\Projects\ArenaBattleRoyale\ArenaBattleRoyale\obj\Debug\ArenaBattleRoyale.csproj.SuggestedBindingRedirects.cache
+C:\Users\jphof\OneDrive\Documents\Full Sail\DES1 202202\Projects\ArenaBattleRoyale\ArenaBattleRoyale\obj\Debug\ArenaBattleRoyale.csproj.CoreCompileInputs.cache
+C:\Users\jphof\OneDrive\Documents\Full Sail\DES1 202202\Projects\ArenaBattleRoyale\ArenaBattleRoyale\obj\Debug\ArenaBattleRoyale.exe
+C:\Users\jphof\OneDrive\Documents\Full Sail\DES1 202202\Projects\ArenaBattleRoyale\ArenaBattleRoyale\obj\Debug\ArenaBattleRoyale.pdb
+C:\Users\jphof\OneDrive\Documents\Full Sail\DES1 202202\Projects\ArenaBattleRoyale\ArenaBattleRoyale\obj\Debug\ArenaBattleRoyale.csproj.AssemblyReference.cache
